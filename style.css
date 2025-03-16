@@ -1,0 +1,138 @@
+.card-body {
+  transition: all 0.8s ease 0s;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0 0 10em 10em;
+  text-decoration: none;
+  position: relative;
+  z-index: 1;
+  user-select: none;
+}
+.card__waves {
+  background-color: #ffffff;
+  -webkit-box-shadow: inset 0 0 50px rgba(247, 13, 13, 0.5);
+  box-shadow: inset 0 0 50px rgb(255, 255, 255);
+  border-radius: 3em;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.card__waves:hover {
+  background-color: rgb(100, 100, 255);
+  cursor: pointer;
+}
+.titule {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  text-align: center;
+}
+.card {
+  border-radius: 3em;
+  text-align: center;
+  z-index: 110;
+  padding: 0;
+}
+.card img {
+  width: 40%;
+  margin-bottom: 1em;
+  position: relative;
+  z-index: 10;
+}
+.card-title {
+  font-size: 30px;
+  text-decoration: underline;
+  font-style: italic;
+  padding-bottom: 0.7em;
+  padding-top: 0.6em;
+  text-align: center;
+  z-index: 90;
+}
+.navbar {
+  z-index: 1000;
+}
+.g-5,
+.gx-5 {
+  --bs-gutter-x: 2%;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+}
+.col {
+  margin-top: 0;
+  margin-bottom: 2em;
+  display: flex;
+}
+.row {
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.company-details {
+  overflow: hidden;
+  padding: 3em 0em;
+  text-align: center;
+}
+
+#footer #col1,
+#footer #col2,
+#footer #col3 {
+  float: left;
+  width: 320px;
+  padding: 0px 40px 0px 40px;
+}
+
+#footer #icon {
+  display: block;
+  font-size: 3em;
+}
+.chebupeli {
+  margin-bottom: 12em;
+}
+
+.text_ves{
+  font-family: "textovii";
+  text-align: left;
+  margin-bottom: 2em;
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+@font-face {
+	font-family: 'Hakim'; 
+	src: url(Hakim.ttf); 
+}
+.text_Hakim{
+  font-family: "Hakim";
+  font-size: 30px;
+}
+@font-face {
+	font-family: 'Pusia'; 
+	src: url(Pusia.otf); 
+}
+.text_Pusia{
+  font-family: "Pusia";
+  font-size: 20px;
+}
+@font-face {
+	font-family: 'Hakim_'; 
+	src: url(Hakim.ttf); 
+}
+.text_Hakim_{
+  font-family: "Hakim_";
+  font-size: 50px;
+  text-align: center;
+}
+@font-face {
+	font-family: 'Godno'; 
+	src: url(text_Godno.ttf); 
+}
+.text_Godno{
+  font-family: "Godno";
+  font-size: 22px;
+  text-align: justify
+}
+.foto{
+  width: 17em;
+  text-align: center;
+}
