@@ -136,4 +136,5 @@
   width: 17em;
   text-align: center;
 }
-.element {height: max-content border-radius: 3em }
+.element {height: max-content;
+	  border-radius: 3em }
