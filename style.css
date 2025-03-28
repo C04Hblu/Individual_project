@@ -136,4 +136,4 @@
   width: 17em;
   text-align: center;
 }
-.element {border-radius: 50% }
+.element {width: 100%; border-radius: 1em }
