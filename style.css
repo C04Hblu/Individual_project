@@ -141,3 +141,8 @@
 	  border-radius: 3em ;}
 .chebupeli{margin-top: 5em;}
 .card-img, .card-img-bottom, .card-img-top{width:60%;}
+.car{border-radius: 3em;
+     text-align: center;
+     z-index: 110;
+     padding: 0;}
+     
