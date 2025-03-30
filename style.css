@@ -88,7 +88,7 @@
   font-size: 3em;
 }
 .chebupeli {
-  margin-bottom: 12em;
+  margin-bottom: 5em;
 }
 
 .text_ves{
@@ -143,3 +143,6 @@
 .card-img, .card-img-bottom, .card-img-top{width:50%;}
 .car{width: innerit;}
 .element{width: 100%;}
+.prim{text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;}
