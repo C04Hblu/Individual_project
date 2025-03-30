@@ -131,13 +131,13 @@
 .text_Godno{
   font-family: "Godno";
   font-size: 22px;
-  text-align: justify
+  text-align: justify;
 }
 .foto{
   width: 17em;
   text-align: center;
 }
 .element {height: max-content;
-	  border-radius: 3em }
+	  border-radius: 3em ;}
 .chebupeli{margin-top: 5em;}
 .card-img, .card-img-bottom, .card-img-top{width:60%;}
