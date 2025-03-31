@@ -137,7 +137,7 @@
   width: 17em;
   text-align: center;
 }
-.element {height: max-content;
+.element {height: innerit;
 	  border-radius: 3em ;}
 .chebupeli{margin-top: 5em;}
 .card-img, .card-img-bottom, .card-img-top{width:50%;}
